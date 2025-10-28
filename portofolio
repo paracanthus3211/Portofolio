@@ -1,0 +1,35 @@
+# 🧩 Project Semester 1 TRPL
+
+Repository ini berisi project semester 1 pada mata kuliah **Teknologi Rekayasa Perangkat Lunak (TRPL)**.  
+Project ini merupakan tugas wajib yang dikumpulkan oleh seluruh mahasiswa dan menjadi bagian dari **penilaian akhir semester**.
+
+---
+
+## 📘 Deskripsi Project
+
+Project ini berfungsi sebagai implementasi dari materi yang telah diajarkan oleh asisten dosen pada pertemuan semester 1.  
+Aplikasi ini dibuat menggunakan konsep dasar pemrograman web, mencakup struktur folder, logika program, dan penggunaan framework modern.
+
+**Nama Project:** [ISI DI SINI]  
+**Dibuat oleh:** [Nama Lengkap Kamu]  
+**NIM:** [NIM Kamu]  
+**Program Studi:** Teknologi Rekayasa Perangkat Lunak  
+
+---
+
+## ⚙️ Teknologi yang Digunakan
+
+Berikut adalah teknologi yang digunakan dalam pengembangan project ini:
+
+- **Framework:** [Laravel / React / Inertia / Lainnya]  
+- **Bahasa Pemrograman:** [PHP / JavaScript / HTML / CSS]  
+- **Database:** [MySQL / SQLite / Tanpa Database]  
+- **Tools:** Composer, NPM, Vite, Git, GitHub  
+
+---
+
+## 🗂️ Struktur Folder Project
+
+Berikut contoh struktur folder (dapat disesuaikan dengan project kamu):
+
+
